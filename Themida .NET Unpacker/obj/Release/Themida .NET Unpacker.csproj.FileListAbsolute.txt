@@ -1,0 +1,7 @@
+C:\Users\kerle\source\repos\Themida .NET Unpacker\Themida .NET Unpacker\bin\Release\Themida.NET_Unpacker.exe.config
+C:\Users\kerle\source\repos\Themida .NET Unpacker\Themida .NET Unpacker\bin\Release\Themida.NET_Unpacker.exe
+C:\Users\kerle\source\repos\Themida .NET Unpacker\Themida .NET Unpacker\bin\Release\Themida.NET_Unpacker.pdb
+C:\Users\kerle\source\repos\Themida .NET Unpacker\Themida .NET Unpacker\obj\Release\Themida .NET Unpacker.csproj.CoreCompileInputs.cache
+C:\Users\kerle\source\repos\Themida .NET Unpacker\Themida .NET Unpacker\obj\Release\Themida.NET_Unpacker.exe
+C:\Users\kerle\source\repos\Themida .NET Unpacker\Themida .NET Unpacker\obj\Release\Themida.NET_Unpacker.pdb
+C:\Users\kerle\source\repos\Themida .NET Unpacker\Themida .NET Unpacker\obj\Release\Themida .NET Unpacker.csprojAssemblyReference.cache
